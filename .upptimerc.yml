@@ -1,23 +1,20 @@
-owner: multiply-ai # Your GitHub organization or username, where this repository lives
-repo: multiply-status-page # The name of this repository
+owner: multiply-ai
+repo: multiply-status-page
 
 sites:
+  - name: Multiply landing page
+    url: https://multiply.ai
   - name: Irish Life Digital Advice
     url: https://digital-financial-advice.irishlife.ie
   - name: Multiply B2C App Backend
     url: https://user.multiply.ai/api/health/
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.multiply.ai
-  # baseUrl: /multiply-status-page
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://cdn.multiply.ai/emails/multiply_logo.png
   name: Multiply
   introTitle: "**Multiply** provides automated financial advice."
   introMessage: Check here for incidents and the status of Multiply's APIs and services
   navbar:
     - title: Status
       href: /
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
