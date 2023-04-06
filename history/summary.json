@@ -4,10 +4,10 @@
     "url": "https://multiply.ai",
     "icon": "https://icons.duckduckgo.com/ip3/multiply.ai.ico",
     "slug": "multiply-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 710,
@@ -15,7 +15,9 @@
     "timeWeek": 596,
     "timeMonth": 725,
     "timeYear": 710,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-06": 1
+    }
   },
   {
     "name": "Irish Life Digital Advice",
@@ -40,9 +42,9 @@
     "url": "https://user.multiply.ai/api/health/",
     "icon": "https://icons.duckduckgo.com/ip3/user.multiply.ai.ico",
     "slug": "multiply-b2-c-app-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,6 +53,8 @@
     "timeWeek": 350,
     "timeMonth": 1056,
     "timeYear": 699,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-06": 0
+    }
   }
 ]
