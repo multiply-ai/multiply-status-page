@@ -6,15 +6,15 @@
     "slug": "multiply-landing-page",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.50%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.93%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 711,
-    "timeDay": 789,
-    "timeWeek": 690,
-    "timeMonth": 734,
-    "timeYear": 711,
+    "time": 710,
+    "timeDay": 575,
+    "timeWeek": 659,
+    "timeMonth": 733,
+    "timeYear": 710,
     "dailyMinutesDown": {
       "2023-04-07": 7
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 262,
-    "timeDay": 115,
-    "timeWeek": 220,
-    "timeMonth": 242,
+    "timeDay": 177,
+    "timeWeek": 217,
+    "timeMonth": 240,
     "timeYear": 262,
     "dailyMinutesDown": {}
   },
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 690,
-    "timeDay": 208,
-    "timeWeek": 345,
-    "timeMonth": 1035,
-    "timeYear": 690,
+    "time": 686,
+    "timeDay": 200,
+    "timeWeek": 328,
+    "timeMonth": 1034,
+    "timeYear": 686,
     "dailyMinutesDown": {}
   }
 ]
