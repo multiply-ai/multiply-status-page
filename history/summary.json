@@ -42,19 +42,19 @@
     "url": "https://user.multiply.ai/api/health/",
     "icon": "https://icons.duckduckgo.com/ip3/user.multiply.ai.ico",
     "slug": "multiply-b2-c-app-backend",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 691,
-    "timeDay": 802,
-    "timeWeek": 381,
-    "timeMonth": 546,
-    "timeYear": 691,
+    "time": 718,
+    "timeDay": 2904,
+    "timeWeek": 959,
+    "timeMonth": 685,
+    "timeYear": 718,
     "dailyMinutesDown": {
-      "2023-04-26": 0
+      "2023-04-26": 7
     }
   }
 ]
