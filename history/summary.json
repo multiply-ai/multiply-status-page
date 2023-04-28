@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 723,
-    "timeDay": 1304,
-    "timeWeek": 1167,
-    "timeMonth": 803,
-    "timeYear": 723,
+    "time": 722,
+    "timeDay": 567,
+    "timeWeek": 1217,
+    "timeMonth": 808,
+    "timeYear": 722,
     "dailyMinutesDown": {
       "2023-04-07": 7
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 262,
-    "timeDay": 277,
-    "timeWeek": 259,
-    "timeMonth": 251,
-    "timeYear": 262,
+    "time": 261,
+    "timeDay": 182,
+    "timeWeek": 245,
+    "timeMonth": 250,
+    "timeYear": 261,
     "dailyMinutesDown": {}
   },
   {
@@ -44,15 +44,15 @@
     "slug": "multiply-b2-c-app-backend",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.54%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.93%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 716,
-    "timeDay": 2644,
-    "timeWeek": 952,
+    "time": 712,
+    "timeDay": 221,
+    "timeWeek": 937,
     "timeMonth": 687,
-    "timeYear": 716,
+    "timeYear": 712,
     "dailyMinutesDown": {
       "2023-04-26": 7
     }
