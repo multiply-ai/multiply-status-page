@@ -6,8 +6,8 @@ sites:
     url: https://multiply.ai
   - name: Irish Life Digital Advice
     url: https://digital-financial-advice.irishlife.ie
-  - name: Multiply B2C App Backend
-    url: https://user.multiply.ai/api/health/
+  - name: Irish Life Digital Advice API
+    url: https://dev-dot-api-dot-multiply-irish-life.nw.r.appspot.com/
 
 status-website:
   cname: status.multiply.ai
