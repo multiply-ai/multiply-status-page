@@ -40,9 +40,9 @@
     "url": "https://dev-dot-api-dot-multiply-irish-life.nw.r.appspot.com/",
     "icon": "https://icons.duckduckgo.com/ip3/dev-dot-api-dot-multiply-irish-life.nw.r.appspot.com.ico",
     "slug": "irish-life-digital-advice-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,6 +51,8 @@
     "timeWeek": 379,
     "timeMonth": 228,
     "timeYear": 200,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-23": 0
+    }
   }
 ]
