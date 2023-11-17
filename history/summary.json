@@ -4,19 +4,19 @@
     "url": "https://multiply.ai",
     "icon": "https://icons.duckduckgo.com/ip3/multiply.ai.ico",
     "slug": "multiply-landing-page",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 758,
-    "timeDay": 614,
-    "timeWeek": 711,
-    "timeMonth": 770,
-    "timeYear": 758,
+    "time": 773,
+    "timeDay": 3281,
+    "timeWeek": 1235,
+    "timeMonth": 922,
+    "timeYear": 773,
     "dailyMinutesDown": {
-      "2023-11-17": 0
+      "2023-11-17": 6
     }
   },
   {
