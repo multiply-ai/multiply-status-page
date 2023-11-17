@@ -4,7 +4,7 @@
     "url": "https://multiply.ai",
     "icon": "https://icons.duckduckgo.com/ip3/multiply.ai.ico",
     "slug": "multiply-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 711,
     "timeMonth": 770,
     "timeYear": 758,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-17": 0
+    }
   },
   {
     "name": "Irish Life Digital Advice",
