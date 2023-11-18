@@ -6,18 +6,16 @@
     "slug": "multiply-landing-page",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 773,
-    "timeDay": 3281,
-    "timeWeek": 1235,
-    "timeMonth": 922,
-    "timeYear": 773,
-    "dailyMinutesDown": {
-      "2023-11-17": 6
-    }
+    "time": 772,
+    "timeDay": 3282,
+    "timeWeek": 1255,
+    "timeMonth": 913,
+    "timeYear": 772,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Irish Life Digital Advice",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 260,
-    "timeDay": 201,
-    "timeWeek": 205,
-    "timeMonth": 250,
+    "timeDay": 195,
+    "timeWeek": 213,
+    "timeMonth": 246,
     "timeYear": 260,
     "dailyMinutesDown": {}
   },
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 200,
-    "timeDay": 124,
-    "timeWeek": 146,
-    "timeMonth": 234,
-    "timeYear": 200,
+    "time": 199,
+    "timeDay": 120,
+    "timeWeek": 134,
+    "timeMonth": 217,
+    "timeYear": 199,
     "dailyMinutesDown": {}
   }
 ]
