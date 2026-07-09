@@ -4,10 +4,12 @@ repo: multiply-status-page
 sites:
   - name: Multiply landing page
     url: https://multiply.ai
-  - name: Irish Life Digital Advice
-    url: https://digital-financial-advice.irishlife.ie
-  - name: Irish Life Digital Advice API
-    url: https://dev-dot-api-dot-multiply-irish-life.nw.r.appspot.com/
+  - name: Multiply Launch API
+    url: https://api.multiply.ai/api/health/
+  - name: Multiply Launch Dashboard
+    url: https://dashboard.multiply.ai/
+  - name: Intelliflo IQ API
+    url: https://intelliflo-api.multiply.ai/api/health/
 
 status-website:
   cname: status.multiply.ai
