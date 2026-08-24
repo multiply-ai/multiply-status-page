@@ -5,11 +5,11 @@ sites:
   - name: Multiply landing page
     url: https://multiply.ai
   - name: Multiply Launch API
-    url: https://api.multiply.ai/api/health/
+    url: https://api.multiply.ai/health
   - name: Multiply Launch Dashboard
     url: https://dashboard.multiply.ai/
   - name: Intelliflo IQ API
-    url: https://intelliflo-api.multiply.ai/api/health/
+    url: https://intelliflo-api.multiply.ai/health
 
 status-website:
   cname: status.multiply.ai
