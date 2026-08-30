@@ -22,53 +22,59 @@
     "url": "https://api.multiply.ai/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.multiply.ai.ico",
     "slug": "multiply-launch-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 232,
-    "timeDay": 343,
-    "timeWeek": 224,
-    "timeMonth": 228,
-    "timeYear": 232,
-    "dailyMinutesDown": {}
+    "time": 230,
+    "timeDay": 241,
+    "timeWeek": 214,
+    "timeMonth": 225,
+    "timeYear": 230,
+    "dailyMinutesDown": {
+      "2026-08-30": 1
+    }
   },
   {
     "name": "Multiply Launch Dashboard",
     "url": "https://dashboard.multiply.ai/",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.multiply.ai.ico",
     "slug": "multiply-launch-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 554,
+    "time": 548,
     "timeDay": 246,
-    "timeWeek": 873,
-    "timeMonth": 623,
-    "timeYear": 554,
-    "dailyMinutesDown": {}
+    "timeWeek": 804,
+    "timeMonth": 611,
+    "timeYear": 548,
+    "dailyMinutesDown": {
+      "2026-08-30": 0
+    }
   },
   {
     "name": "Intelliflo IQ API",
     "url": "https://intelliflo-api.multiply.ai/health",
     "icon": "https://icons.duckduckgo.com/ip3/intelliflo-api.multiply.ai.ico",
     "slug": "intelliflo-iq-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 218,
-    "timeDay": 171,
-    "timeWeek": 182,
-    "timeMonth": 215,
-    "timeYear": 218,
-    "dailyMinutesDown": {}
+    "time": 219,
+    "timeDay": 243,
+    "timeWeek": 197,
+    "timeMonth": 218,
+    "timeYear": 219,
+    "dailyMinutesDown": {
+      "2026-08-30": 0
+    }
   }
 ]
