@@ -22,19 +22,19 @@
     "url": "https://api.multiply.ai/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.multiply.ai.ico",
     "slug": "multiply-launch-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 230,
-    "timeDay": 241,
-    "timeWeek": 214,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 229,
+    "timeDay": 225,
+    "timeWeek": 212,
     "timeMonth": 225,
-    "timeYear": 230,
+    "timeYear": 229,
     "dailyMinutesDown": {
-      "2026-08-30": 1
+      "2026-08-30": 8
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://dashboard.multiply.ai/",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.multiply.ai.ico",
     "slug": "multiply-launch-dashboard",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 548,
-    "timeDay": 246,
-    "timeWeek": 804,
-    "timeMonth": 611,
-    "timeYear": 548,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 545,
+    "timeDay": 285,
+    "timeWeek": 760,
+    "timeMonth": 604,
+    "timeYear": 545,
     "dailyMinutesDown": {
-      "2026-08-30": 0
+      "2026-08-30": 8
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://intelliflo-api.multiply.ai/health",
     "icon": "https://icons.duckduckgo.com/ip3/intelliflo-api.multiply.ai.ico",
     "slug": "intelliflo-iq-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 219,
-    "timeDay": 243,
+    "timeDay": 229,
     "timeWeek": 197,
     "timeMonth": 218,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2026-08-30": 0
+      "2026-08-30": 7
     }
   }
 ]
