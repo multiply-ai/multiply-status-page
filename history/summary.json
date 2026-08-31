@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 669,
-    "timeDay": 319,
-    "timeWeek": 387,
-    "timeMonth": 452,
-    "timeYear": 488,
+    "time": 668,
+    "timeDay": 683,
+    "timeWeek": 451,
+    "timeMonth": 463,
+    "timeYear": 492,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.multiply.ai.ico",
     "slug": "multiply-launch-api",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 229,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 231,
     "timeDay": 225,
-    "timeWeek": 212,
-    "timeMonth": 225,
-    "timeYear": 229,
-    "dailyMinutesDown": {
-      "2026-08-30": 8
-    }
+    "timeWeek": 222,
+    "timeMonth": 228,
+    "timeYear": 231,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Multiply Launch Dashboard",
@@ -43,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.multiply.ai.ico",
     "slug": "multiply-launch-dashboard",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 545,
-    "timeDay": 285,
-    "timeWeek": 760,
-    "timeMonth": 604,
-    "timeYear": 545,
-    "dailyMinutesDown": {
-      "2026-08-30": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 551,
+    "timeDay": 489,
+    "timeWeek": 405,
+    "timeMonth": 618,
+    "timeYear": 551,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Intelliflo IQ API",
@@ -63,18 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/intelliflo-api.multiply.ai.ico",
     "slug": "intelliflo-iq-api",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 219,
-    "timeDay": 229,
-    "timeWeek": 197,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 220,
+    "timeDay": 261,
+    "timeWeek": 208,
     "timeMonth": 218,
-    "timeYear": 219,
-    "dailyMinutesDown": {
-      "2026-08-30": 7
-    }
+    "timeYear": 220,
+    "dailyMinutesDown": {}
   }
 ]
