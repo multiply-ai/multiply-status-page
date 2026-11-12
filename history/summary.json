@@ -4,18 +4,20 @@
     "url": "https://multiply.ai",
     "icon": "https://icons.duckduckgo.com/ip3/multiply.ai.ico",
     "slug": "multiply-landing-page",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 764,
-    "timeDay": 19812,
-    "timeWeek": 5309,
-    "timeMonth": 1661,
-    "timeYear": 783,
-    "dailyMinutesDown": {}
+    "time": 762,
+    "timeDay": 13261,
+    "timeWeek": 4737,
+    "timeMonth": 1616,
+    "timeYear": 778,
+    "dailyMinutesDown": {
+      "2026-11-12": 10
+    }
   },
   {
     "name": "Multiply Launch API",
